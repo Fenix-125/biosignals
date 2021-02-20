@@ -1,0 +1,6 @@
+pandas
+matplotlib
+sounddevice
+scipy
+pyaudio
+wave
